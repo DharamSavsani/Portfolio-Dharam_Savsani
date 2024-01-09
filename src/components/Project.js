@@ -28,7 +28,7 @@ function Project() {
           code_link="https://github.com/DharamSavsani/Newsapp"
         />
         <ProjectComponent
-          project_name="Legal Record System (Web3, flutter)"
+          project_name="Legal Record System - *Under Development)"
           code_link="https://github.com/DharamSavsani/Legal-Record-System"
         />
       </div>
