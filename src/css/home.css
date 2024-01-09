@@ -1,0 +1,46 @@
+.home {
+  display: flex;
+  justify-content: space-between;
+  padding: 10vh;
+  background-color: #5c8374;
+}
+
+.left-side {
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  margin-top: 7vh;
+}
+
+.typing-text {
+  color: var(--dark-green);
+}
+
+.quate {
+  color: var(--dark-green);
+  width: 70%;
+  margin-left: 5vw;
+}
+
+@media screen and (width < 850px) {
+  .home {
+    padding: 1vh;
+  }
+  .home > .left-side {
+    margin-top: 2vh;
+    gap: 1vh;
+  }
+  .home > .left-side > h5 {
+    font-size: 6px;
+  }
+  .home > .left-side > .quate {
+    font-size: 6px;
+  }
+  .typing-text {
+    font-size: 7px;
+  }
+  .right-side > img {
+    height: 100px;
+    margin: 15px 15px 15px 0px;
+  }
+}
