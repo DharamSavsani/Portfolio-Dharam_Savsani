@@ -33,7 +33,7 @@
 @media screen and (width < 850px) {
   .contact > h2 {
     font-size: small;
-    margin-bottom: 1vh;
+    margin-bottom: 3vh;
   }
   .contact-left-side > .contact-list-item > img {
     margin-right: 10px;
