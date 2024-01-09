@@ -37,10 +37,10 @@
 
 @media screen and (width < 850px) {
   .name {
-    display: none;
+    font-size: x-small;
   }
   .nav-link {
-    font-size: 7px;
+    display: none;
   }
   .contect-link {
     font-size: 8px;

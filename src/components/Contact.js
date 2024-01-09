@@ -15,22 +15,12 @@ function Contact() {
             href="mailto:dharamsavsani444@gmail.com"
             className="contact-list-item"
           >
-            <img
-              src={GoogleLogo}
-              alt="Loading..."
-              height="20"
-              style={{ marginRight: "20px" }}
-            />
+            <img src={GoogleLogo} alt="Loading..." height="20" />
             dharamsavsani444@gmail.com
           </a>
 
           <a href="tel:+916355502482" className="contact-list-item">
-            <img
-              src={Phone}
-              alt="Loading..."
-              height="20"
-              style={{ marginRight: "20px" }}
-            />
+            <img src={Phone} alt="Loading..." height="20" />
             +91 6355502482
           </a>
         </div>
@@ -39,12 +29,7 @@ function Contact() {
             href="https://www.linkedin.com/in/dharam-savsani-aa76a1260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             className="contact-list-item"
           >
-            <img
-              src={LinkedInLogo}
-              alt="Loading..."
-              height="20"
-              style={{ marginRight: "20px" }}
-            />
+            <img src={LinkedInLogo} alt="Loading..." height="20" />
             Dharam Savsani
           </a>
 
@@ -52,12 +37,7 @@ function Contact() {
             href="https://github.com/DharamSavsani"
             className="contact-list-item"
           >
-            <img
-              src={GitHubLogo}
-              alt="Loading..."
-              height="20"
-              style={{ marginRight: "20px" }}
-            />
+            <img src={GitHubLogo} alt="Loading..." height="20" />
             Dharam Savsani
           </a>
         </div>

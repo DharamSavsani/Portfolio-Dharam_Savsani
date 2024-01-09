@@ -31,16 +31,18 @@
     gap: 1vh;
   }
   .home > .left-side > h5 {
-    font-size: 6px;
+    font-size: 10px;
   }
   .home > .left-side > .quate {
-    font-size: 6px;
+    font-size: 8px;
+    width: 85%;
+    margin-left: 3vw;
   }
   .typing-text {
-    font-size: 7px;
+    font-size: 13px;
   }
   .right-side > img {
-    height: 100px;
-    margin: 15px 15px 15px 0px;
+    height: 130px;
+    margin: 20px 10px 20px 0px;
   }
 }

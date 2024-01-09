@@ -46,20 +46,23 @@
   }
   .skill{
     max-width: 20vw;
+    padding: 8px;
+    border-radius: 6px;
+    margin: 5px;
   }
   .skill-cards {
     grid-template-columns: repeat(3, 1fr);
     width: 100%;
   }
   .skills > .title {
-    font-size: x-small;
+    font-size: small;
     margin-bottom: 1vh;
   }
   .skill > img {
-    height: 10px;
+    height: 15px;
   }
   .skill > .skill-name {
-    font-size: 6px;
+    font-size: 7px;
     margin: 0 0 0 10px;
     width: 100%;
   }
